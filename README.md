@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning: `Spring Boot`, `Docker`, `Kubernetes`  
 - 👯 I’m looking to collaborate on: `Java open-source projects`  
 - 💬 Ask me about: Anything Java, backend, or Git!  
-- ⚡ Fun fact: I can debug faster with coffee ☕  
+
 
 ---
 
