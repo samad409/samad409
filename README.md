@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hey there, I'm <span style="color:#F7B801">Abdul Samad</span> 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Java+Developer;Open+Source+Contributor;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Java+Developer;Open+Source+Contributor;Tech+Enthusiast;" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,8 +9,8 @@
 <!-- About Section -->
 ### 🧠 About Me
 - 🔭 I’m currently working on: `Java Spring Boot Projects`  
-- 🌱 I’m currently learning: `Spring Boot`, `Docker`, `Kubernetes`  
-- 👯 I’m looking to collaborate on: `Java open-source projects`  
+- 🌱 I’m currently learning: `Spring Boot`, `Docker`  
+- 👯 I’m looking to collaborate on: `Open-source projects`  
 - 💬 Ask me about: Anything Java, backend, or Git!  
 
 
