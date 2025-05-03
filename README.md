@@ -29,7 +29,7 @@
 </p>
 
 ---
--->
+
 ### 📈 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samad409&show_icons=true&theme=tokyonight" height="180"/>
@@ -44,7 +44,7 @@
 
 ---
 
-<!-- GitHub Activity Graph -->
+<!-- GitHub Activity Graph 
 ### 🌱 Contribution Graph
 [![Samad's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samad409&bg_color=1a1b27&color=ffffff&line=00e1ff&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
