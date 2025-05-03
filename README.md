@@ -6,7 +6,7 @@
 
 ---
 
-<!-- About Section -->
+<!-- About Section 
 ### 🧠 About Me
 - 🔭 I’m currently working on: `Java Spring Boot Projects`  
 - 🌱 I’m currently learning: `Spring Boot`, `Docker`  
@@ -16,7 +16,7 @@
 
 ---
 
-<!-- Image / GIF Section -->
+<!-- Image / GIF Section 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### 🛠️ Languages & Tools
@@ -29,7 +29,7 @@
 </p>
 
 ---
-
+-->
 ### 📈 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samad409&show_icons=true&theme=tokyonight" height="180"/>
@@ -37,7 +37,7 @@
 </p>
 
 ---
-
+<!--
 ### 📌 Pinned Projects
 [![ReadMe Generator](https://github-readme-stats.vercel.app/api/pin/?username=samad409&repo=readme-generator&theme=radical)](https://github.com/samad409/readme-generator)  
 [![My Java Blog App](https://github-readme-stats.vercel.app/api/pin/?username=samad409&repo=java-blog-app&theme=radical)](https://github.com/samad409/java-blog-app)
@@ -50,14 +50,14 @@
 
 ---
 
-<!-- GitHub Streak -->
+<!-- GitHub Streak 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samad409&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-<!-- Social -->
+<!-- Social 
 ### 🔗 Let's Connect!
 <p>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
