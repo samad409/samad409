@@ -49,8 +49,8 @@
 [![Samad's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samad409&bg_color=1a1b27&color=ffffff&line=00e1ff&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
-
-<!-- GitHub Streak 
+-->
+< GitHub Streak 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samad409&theme=radical" alt="GitHub Streak" />
 </p>
