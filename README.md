@@ -30,7 +30,7 @@
 
 ---
 
-### 📈 My GitHub Stats
+### 📈 My GitHub Stats-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samad409&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samad409&layout=compact&theme=tokyonight" height="180"/>
@@ -43,13 +43,13 @@
 [![My Java Blog App](https://github-readme-stats.vercel.app/api/pin/?username=samad409&repo=java-blog-app&theme=radical)](https://github.com/samad409/java-blog-app)
 
 ---
--->
+
 
 ### 🌱 Contribution Graph
 [![Samad's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samad409&bg_color=1a1b27&color=ffffff&line=00e1ff&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
-
+-->
 <!--GitHub Streak--> 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samad409&theme=radical" alt="GitHub Streak" />
