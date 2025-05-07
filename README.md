@@ -37,12 +37,13 @@
 </p>
 
 ---
-<!--
-### 📌 Pinned Projects
+
+### 📌 Pinned Projects-->
 [![ReadMe Generator](https://github-readme-stats.vercel.app/api/pin/?username=samad409&repo=readme-generator&theme=radical)](https://github.com/samad409/readme-generator)  
 [![My Java Blog App](https://github-readme-stats.vercel.app/api/pin/?username=samad409&repo=java-blog-app&theme=radical)](https://github.com/samad409/java-blog-app)
 
 ---
+<!--
 
 
 ### 🌱 Contribution Graph
