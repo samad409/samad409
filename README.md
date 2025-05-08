@@ -54,8 +54,8 @@
 <!--GitHub Streak-->
 <p align="center"><!--
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samad409&theme=radical" alt="GitHub Streak" />
--->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samad409&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+--><img src="https://streak-stats.demolab.com/?user=samad409&theme=radical" alt="GitHub Streak" />
+
 
 </p>
 
