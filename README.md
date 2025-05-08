@@ -52,12 +52,10 @@
 ---
 -->
 <!--GitHub Streak-->
-<p align="center"><!--
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samad409&theme=radical" alt="GitHub Streak" />
---><img src="https://streak-stats.demolab.com/?user=samad409&theme=radical" alt="GitHub Streak" />
-
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=samad409&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
+
 
 ---
 
