@@ -57,7 +57,7 @@
   <img src="https://streak-stats.demolab.com/?user=samad409&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 -->
-<h2 align="center">🔥 GitHub Contribution Streak</h2>
+
 
 <p align="center">
   <a href="https://github.com/samad409">
