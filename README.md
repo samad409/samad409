@@ -19,7 +19,7 @@
 <!-- Image / GIF Section 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages & Tools-->
 <p>
   <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -30,7 +30,7 @@
 
 ---
 
-### 📈 My GitHub Stats-->
+<!--### 📈 My GitHub Stats-->
 <p align="center"><!--
   <img src="https://github-readme-stats.vercel.app/api?username=samad409&show_icons=true&theme=tokyonight" height="180"/>-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samad409&layout=compact&theme=tokyonight" height="180"/>
