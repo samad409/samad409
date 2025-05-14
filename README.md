@@ -30,8 +30,9 @@
 
 <!--### 📈 My GitHub Stats-->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samad409&theme=tokyonight&margin-w=15&no-frame=true" />
+  <img src="https://komarev.com/ghpvc/?username=samad409&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+
 
 ---
 <!--
