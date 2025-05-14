@@ -62,12 +62,11 @@
     <img 
       src="https://streak-stats.demolab.com/?user=samad409&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" 
       alt="samad409's GitHub Streak" 
-      style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease-in-out;" 
-      onmouseover="this.style.transform='scale(1.03)'" 
-      onmouseout="this.style.transform='scale(1)'" 
+      style="border-radius: 12px;" 
     />
   </a>
 </p>
+
 
 
 
