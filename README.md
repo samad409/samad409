@@ -29,9 +29,10 @@
 ---
 
 <!--### 📈 My GitHub Stats-->
-<p align="center"><!--
-  <img src="https://github-readme-stats.vercel.app/api?username=samad409&show_icons=true&theme=tokyonight" height="180"/>-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samad409&layout=compact&theme=tokyonight" height="180"/>
+<!-- GitHub Readme Stats Alternative -->
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samad409&layout=compact&langs_count=10&theme=tokyonight" height="180"/>
+</p>
 
 
 ---
