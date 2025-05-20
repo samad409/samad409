@@ -31,7 +31,7 @@
 <!--### 📈 My GitHub Stats-->
 <!-- GitHub Readme Stats Alternative -->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samad409&layout=compact&langs_count=10&theme=monokai" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samad409&layout=compact&langs_count=10&theme=dracula" height="180"/>
 </p>
 
 
