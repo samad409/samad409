@@ -50,7 +50,7 @@ https://github.com/samad409/samad409/edit/main/README.md
 ---
 
 
-<!--### 📈 My GitHub Stats-->
+<### 📈 My GitHub Stats>
 <!-- GitHub Readme Stats Alternative -->
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samad409&layout=compact&langs_count=10&theme=nightowl" height="180"/>
