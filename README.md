@@ -21,9 +21,9 @@ https://github.com/samad409/samad409/edit/main/README.md
 ---
 
 <!-- Image / GIF Section 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /-->
 
-### 🛠️ Languages & Tools-->
+### 🛠️ Languages & Tools>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
