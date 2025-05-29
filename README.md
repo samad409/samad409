@@ -27,7 +27,7 @@ https://github.com/samad409/samad409/edit/main/README.md
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="30" style="padding:3px; border-radius:8px; background:#00000010;"/> &nbsp;&nbsp;&nbsp;
+ <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="30" style="padding:3px; border-radius:6px; background:#00000010;"/> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> &nbsp;&nbsp;&nbsp;
