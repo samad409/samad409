@@ -25,17 +25,18 @@
 
 ### 🛠️ Languages & Tools-->
 <p align="center">
-  <img src="https://img.shields.io/badge/-FCC624?style=for-the-badge&logo=linux&logoColor=black&label="/>
-  <img src="https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white&label="/>
-  <img src="https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white&label="/>
-  <img src="https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&label="/>
-  <img src="https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&label="/>
-  <img src="https://img.shields.io/badge/-F80000?style=for-the-badge&logo=openjdk&logoColor=white&label="/>
-  <img src="https://img.shields.io/badge/-6DB33F?style=for-the-badge&logo=spring&logoColor=white&label="/>
-  <img src="https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white&label="/>
-  <img src="https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&label="/>
-  <img src="https://img.shields.io/badge/-777BB4?style=for-the-badge&logo=php&logoColor=white&label="/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
 </p>
+
 
 
 
