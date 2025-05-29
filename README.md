@@ -25,21 +25,34 @@ https://github.com/samad409/samad409/edit/main/README.md
 
 ### 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/> &nbsp;&nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30"/>  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30"/>
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="30" alt="Java" style="border-radius:6px; filter: drop-shadow(1px 1px 1px #888);"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="30" alt="Spring" style="border-radius:6px; filter: drop-shadow(1px 1px 1px #4CAF50);"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" alt="Linux" style="border-radius:50%; filter: drop-shadow(0 0 5px #FCC624);"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5" style="border-radius:6px; filter: drop-shadow(1px 1px 1px #E44D26);"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS3" style="border-radius:6px; filter: drop-shadow(1px 1px 1px #1572B6);"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript" style="border-radius:6px; filter: drop-shadow(1px 1px 1px #F7DF1E);"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React" style="border-radius:50%; filter: drop-shadow(0 0 10px #61DAFB);"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="NodeJS" style="border-radius:6px; filter: drop-shadow(1px 1px 2px #3C873A);"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30" alt="Python" style="border-radius:50%; filter: drop-shadow(0 0 5px #FFD43B);"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" alt="C" style="border-radius:6px; filter: drop-shadow(1px 1px 2px #00599C);"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++" style="border-radius:6px; filter: drop-shadow(1px 1px 2px #00599C);"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub" style="border-radius:50%; filter: drop-shadow(0 0 10px #181717);"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git" style="border-radius:6px; filter: drop-shadow(1px 1px 1px #F05032);"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30" alt="Bash" style="border-radius:50%; filter: drop-shadow(0 0 8px #4EAA25);"/>
 </p>
 
 
