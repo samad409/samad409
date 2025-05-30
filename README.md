@@ -49,11 +49,21 @@
 
 ---
 
+<h3 align="center">🚀 Orbiting Around My Skills</h3>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/assets/orbit.gif" width="400" alt="Orbit Animation" />
+  ┌───────────────┐<br>
+  │   🐍 Python   │<br>
+  └───────────────┘<br>
+        ▲<br>
+        │<br>
+🌀 C <────── 🎯 You (Center) ──────> Django ⚙️<br>
+        │<br>
+        ▼<br>
+  ┌───────────────┐<br>
+  │    🐧 Linux   │<br>
+  └───────────────┘
 </p>
-
-
 
 
 
