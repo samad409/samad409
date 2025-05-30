@@ -49,6 +49,36 @@
 
 ---
 
+<p align="center">
+  <svg width="300" height="300" viewBox="0 0 300 300">
+    <!-- Center logo/avatar -->
+    <circle cx="150" cy="150" r="30" fill="#4ade80" />
+    <text x="150" y="155" text-anchor="middle" font-size="12" fill="#000">You</text>
+
+    <!-- Orbit Path -->
+    <circle cx="150" cy="150" r="100" fill="none" stroke="#d1d5db" stroke-dasharray="5,5"/>
+
+    <!-- Orbiting dot (satellite) -->
+    <circle id="satellite" cx="250" cy="150" r="8" fill="#60a5fa">
+      <animateTransform 
+        attributeName="transform"
+        type="rotate"
+        from="0 150 150"
+        to="360 150 150"
+        dur="10s"
+        repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Orbit Points (Skills) -->
+    <text x="150" y="40" text-anchor="middle" font-size="10" fill="#f59e0b">Python</text>
+    <text x="260" y="150" text-anchor="start" font-size="10" fill="#f59e0b">Django</text>
+    <text x="150" y="270" text-anchor="middle" font-size="10" fill="#f59e0b">C/Linux</text>
+    <text x="30" y="150" text-anchor="end" font-size="10" fill="#f59e0b">Forgery Detector</text>
+  </svg>
+</p>
+
+---
+
 
 ### 📈 My GitHub Stats
 <!-- GitHub Readme Stats Alternative -->
