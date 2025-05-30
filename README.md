@@ -50,8 +50,9 @@
 ---
 
 <p align="center">
-  <img src="https://your-image-url.com/orbit-animation.gif" width="300" alt="Orbit Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Hi+I'm+Abdul Samad!;Python+%7C+C+%7C+Django+%7C+Linux;Image+Forgery+Detection+Project;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
+
 
 
 ---
