@@ -50,7 +50,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Hi+I'm+Abdul Samad!;Python+%7C+C+%7C+Django+%7C+Linux;Image+Forgery+Detection+Project;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hello+World!;Welcome+to+my+GitHub+Profile.;I+love+Python+%7C+C+%7C+Django+%7C+Linux" alt="Typing SVG" />
 </p>
 
 
