@@ -50,8 +50,9 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/orbit-animation.gif" width="400" alt="Orbit Animation" />
+  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/assets/orbit.gif" width="400" alt="Orbit Animation" />
 </p>
+
 
 
 
