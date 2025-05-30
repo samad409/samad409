@@ -49,16 +49,7 @@
 
 ---
 
-<h3 align="center">🚀 Orbiting Around My Skills</h3>
 
-<p align="center">
-  <img src="YOUR_GIF_LINK_HERE.gif" width="400" alt="Orbit Animation" />
-</p>
-
-
-
-
----
 
 
 ### 📈 My GitHub Stats
