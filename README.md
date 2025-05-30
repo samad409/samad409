@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning: `Spring Boot`, `Docker`  
 - 👯 I’m looking to collaborate on: `Open-source projects`  
 - 💬 Ask me about: Anything Java, backend, or Git!  
-https://github.com/samad409/samad409/edit/main/README.md
+  <!--https://github.com/samad409/samad409/edit/main/README.md
 
 ---
 
