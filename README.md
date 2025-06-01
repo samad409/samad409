@@ -10,7 +10,7 @@
 
 ---
 
-<!-- About Section -->
+
 ### 🧠 About Me
 - 🔭 I’m currently working on: `Java Spring Boot Projects`  
 - 🌱 I’m currently learning: `Spring Boot`, `Docker`  
