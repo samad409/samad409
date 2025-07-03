@@ -50,11 +50,11 @@
 ---
 
 
-
+<!--
 
 ### 📈 My GitHub Stats
 <!-- GitHub Readme Stats Alternative -->
-<p align="center">
+<!--p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samad409&layout=compact&langs_count=10&theme=nightowl" height="180"/>
 </p>
 
@@ -82,7 +82,7 @@
 -->
 
 
-<p align="center">
+<!--p align="center">
   <a href="https://github.com/samad409">
     <img 
       src="https://streak-stats.demolab.com/?user=samad409&theme=nightowl&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" 
